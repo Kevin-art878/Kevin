@@ -6,6 +6,7 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 ## Objetivos
 
 
+
 ## Habilidades
 
 | Habilidades                                        | Projetos Associados        |
@@ -17,9 +18,11 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+
 ## Projetos 
 - Detection Lab
 - SOC Automation Project
+
 
 ## Ferramentas
 
@@ -42,6 +45,7 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
 
 ## Certificações
 <div>
