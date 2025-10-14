@@ -3,9 +3,6 @@
 
 Sou estudante de Cibersegurança, com foco em Centro de Operações de Segurança (SOC) Blue Team.
 
-## Objetivos
-
-
 
 ## Habilidades
 
