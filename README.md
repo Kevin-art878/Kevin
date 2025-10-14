@@ -12,19 +12,19 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 | Habilidades                                        | Projetos Associados        |
 |-----------------------------------------------|----------------------------|
 | Implementação de SIEM e Análise de Logs          | <a href="https://google.com">Detection Lab</a>|
-| Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">Detection Lab</a>|
+| Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">  </a>|
 | Automação de Segurança com Shuffle SOAR        
 | Planejamento e Execução de Resposta a Incidentes     
 | Gerenciamento de Casos com o TheHive 
 | Criação de Scripts e Automação para Mitigação de Ameaças
 
-Exportar para as Planilhas
+
  
 
 
 ## Projetos 
 - Detection Lab
-- SOC Automation Project
+- 
 
 
 ## Ferramentas
