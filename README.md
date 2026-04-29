@@ -10,7 +10,8 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 |-----------------------------------------------|----------------------------|
 | Implementação de SIEM e Análise de Logs          | <a href="https://google.com">Detection Lab</a>|
 | Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">  </a>|        
-| Planejamento e Execução de Resposta a Incidentes     
+| Planejamento e Execução de Resposta a Incidentes
+| Active Directory (AD) 
 | Criação de Scripts e Automação para Mitigação de Ameaças
 
 
