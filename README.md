@@ -8,7 +8,7 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 
 | Habilidades                                        | Projetos Associados        |
 |-----------------------------------------------|----------------------------|
-| Implementação de SIEM e Análise de Logs          | <a href="https://google.com">Detection Lab</a>|
+| Implementação de SIEM e Análise de Logs          | <a href="https://google.com">   </a>|
 | Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">  </a>|        
 | Planejamento e Execução de Resposta a Incidentes
 | Active Directory (AD) 
@@ -39,13 +39,15 @@ Sou estudante de Cibersegurança, com foco em Centro de Operações de Seguranç
 ### SIEM
 <div>
     
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     
 </div>
 
 
 ## Certificações
-<div>
+<div> 
+
+ 
 </div>
 
 
