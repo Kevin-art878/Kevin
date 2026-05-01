@@ -6,22 +6,12 @@ Estudante de segurança cibernética com foco em operações de Blue Team e SOC,
 Minha experiência prática inclui o trabalho com:
 
  • Ferramentas SIEM e monitoramento de logs <br> 
- • Análise de incidentes de segurança <br>
+ • Monitoramento de trafego de redes e Detecção de ataques <br>
  • Python para automação <br> 
+ • Active Directory AD 
+ 
 
 Estou aprendendo por meio de projetos pessoais e plataformas de cibersegurança, com o objetivo de simular ambientes SOC reais.
-
-
-## Habilidades
-
-| Habilidades                                        | Projetos Associados        |
-|-----------------------------------------------|----------------------------|
-| Implementação de SIEM e Análise de Logs          | <a href="https://google.com">   </a>|
-| Monitoramento de Tráfego de Rede e Detecção de Ataques | <a href="https://google.com">  </a>|        
-| Active Directory (AD) 
-
-
- 
 
 
 ## Projetos 
