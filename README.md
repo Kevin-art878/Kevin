@@ -5,9 +5,9 @@ Estudante de segurança cibernética com foco em operações de Blue Team e SOC,
 
 Minha experiência prática inclui o trabalho com:
 
- • Ferramentas SIEM e monitoramento de logs 
- • Análise de incidentes de segurança
- • Python para automação 
+ • Ferramentas SIEM e monitoramento de logs <br> 
+ • Análise de incidentes de segurança <br>
+ • Python para automação <br> 
 
 Estou aprendendo por meio de projetos pessoais e plataformas de cibersegurança, com o objetivo de simular ambientes SOC reais.
 
