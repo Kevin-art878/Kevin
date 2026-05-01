@@ -7,7 +7,7 @@ Minha prática inclui o trabalho com:
 
  • Ferramentas SIEM e monitoramento de logs <br> 
  • Monitoramento de trafego de redes e Detecção de ataques <br>
- • Python para automação <br> 
+ • Python para automação de processos <br> 
  • Active Directory AD 
  
 
