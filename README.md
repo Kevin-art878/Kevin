@@ -3,7 +3,7 @@
 
 Estudante de segurança cibernética com foco em operações de Blue Team e SOC, com prática em laboratórios de segurança.
 
-Minha experiência prática inclui o trabalho com:
+Minha prática inclui o trabalho com:
 
  • Ferramentas SIEM e monitoramento de logs <br> 
  • Monitoramento de trafego de redes e Detecção de ataques <br>
