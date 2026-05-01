@@ -1,7 +1,15 @@
 # Olá, Me chamo Kevin
 <a href="https://www.linkedin.com/in/kevinsantos-cybersecurity/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Estudante de Cibersegurança, com foco em Centro de Operações de Segurança (SOC) Blue Team.
+Estudante de segurança cibernética com foco em operações de Blue Team e SOC, com prática em laboratórios de segurança.
+
+Minha experiência prática inclui o trabalho com:
+
+ • Ferramentas SIEM e monitoramento de logs 
+ • Análise de incidentes de segurança
+ • Python para automação 
+
+Estou aprendendo por meio de projetos pessoais e plataformas de cibersegurança, com o objetivo de simular ambientes SOC reais.
 
 
 ## Habilidades
