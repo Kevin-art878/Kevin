@@ -8,9 +8,12 @@ Aprendendo por meio de projetos pessoais e plataformas de cibersegurança, com o
 
 ## Projetos 
 - Gerenciamento de Usuários no Active Directory.
-- Monitoramento de trafego de redes e Detecção de ataques com wireshark.
+- Detecção e Analise de ataques Web
+- Analisando ataques phishing em emails
+- Investigando alertas de SIEM
+- Monitoramento de trafego de redes com wireshark.
 - Monitoramento de logs com IDS/IPS
-- Automatizando processos com python 
+- Automatizando processos com python
 
 
 ## Ferramentas
